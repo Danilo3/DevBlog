@@ -2,3 +2,6 @@ baseURL = 'https://Danilo3.github.io/DevBlog'
 languageCode = 'en-us'
 title = 'Developer`s Blog'
 theme = 'coyote'
+
+[outputs]
+  home = ['HTML', 'JSON']
